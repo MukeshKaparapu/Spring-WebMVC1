@@ -1,3 +1,8 @@
 spring:
   application:
     name: springWebMVC1
+
+  mvc:
+    view:
+      prefix: /view/
+      suffix: .jsp
